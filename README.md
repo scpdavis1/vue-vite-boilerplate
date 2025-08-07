@@ -17,7 +17,7 @@ Run the following setup:
 ```
 npm init -y
 
-npm install --save-dev vue vite @vitejs/plugin-vue  # (or just copy my package.json)
+npm install --save-dev vue vite @vitejs/plugin-vue  # (or just copy my package.json and install like in the Install section.)
 ```
 
 * Note: you will want to change the versions of things in the package.json to the version you have to use.
