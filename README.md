@@ -1,8 +1,6 @@
 # vue-vite-boilerplate
 vue vite boilerplate
 
-You can use the files I wrote as guidance. 
-
 to build this from scratch:
 
 npm init -y
